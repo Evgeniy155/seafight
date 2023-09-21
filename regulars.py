@@ -1,5 +1,3 @@
-#!python
-# -*- coding: utf-8 -*-
 from random import randint, choice
 from itertools import permutations as comb
 
